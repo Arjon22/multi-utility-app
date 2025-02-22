@@ -1,16 +1,44 @@
-# multi_utility
+# 📱 Multi-Utility App
 
-A new Flutter project.
+A **Flutter-based** multi-functional utility app that combines a **calculator, calendar, notes, voice recorder, alarm, and weather updates** into a single application. This project aims to provide essential everyday tools in one place with a **modern UI and smooth functionality**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ **1. Calculator**
+- Supports basic arithmetic operations.
+- Elegant and responsive UI.
+- Error handling for invalid expressions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📅 **2. Calendar with Reminders**
+- Displays full **monthly calendar view**.
+- Allows adding **reminders and notes** to specific dates.
+- Categorize reminders as **Events, Tasks, Birthdays** with icons.
+- Set notifications for reminders.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📝 **3. Notes (To-Do List)**
+- Add, edit, delete notes **instantly**.
+- Auto-save functionality.
+- Press **Enter** on the keyboard to save notes faster.
+
+### 🎤 **4. Voice Recorder**
+- Start, **pause, resume, and stop** recording.
+- **Save and play** recorded audio files.
+- Displays **recording status** visually.
+
+### ⏰ **5. Alarm**
+- **Set multiple alarms** with/without labels.
+- Choose a **custom ringtone or default tones**.
+- **Snooze & dismiss** options available.
+
+### 🌦 **6. Real-Time Weather**
+- Fetches **live weather data** using OpenWeatherMap API.
+- Uses **device location** to display local weather.
+- Shows **temperature, humidity, wind speed, and weather conditions**.
+- Includes a **refresh** button to update weather.
+
+---
+
+## 📂 Folder Structure
+
